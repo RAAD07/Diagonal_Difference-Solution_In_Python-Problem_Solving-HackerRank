@@ -1,4 +1,4 @@
-# Diagonal_Difference-Solution_In_Python-Problem_Solving-HackerRank
+# Solution of Diagonal-Difference Problem using Python-HackerRank
 
 Problem:
 
